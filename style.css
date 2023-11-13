@@ -1,0 +1,44 @@
+/* styles.css */
+
+.graph-container {
+    margin-bottom: 20px; /* Add margin at the bottom to create space between the graph containers */
+}
+
+.graph-container-second-row {
+    margin-bottom: 20px; /* Add margin at the bottom to create space between the graph containers in the second row */
+}
+
+.graph-container-wrapper {
+    display: flex;
+    justify-content: space-between; /* Add space between graph containers */
+}
+
+.graph-container-second-row-wrapper {
+    display: flex;
+    justify-content: space-between; /* Add space between graph containers in the second row */
+}
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fefefe;
+    background-color: black;  /* Set the background color to black */
+    color: white;  /* Set the text color to white */
+}
+
+.graph-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+}
+
+.graph-container-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.graph-container-second-row-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
